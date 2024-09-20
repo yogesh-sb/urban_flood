@@ -34,7 +34,7 @@ HiFloodS is licensed under the [MIT License](LICENSE), allowing for flexibility 
 
 ## Contact
 
-For inquiries or support, please contact [yogeshbhattarai.sb@gmail.com](mailto:yogeshbhattarai.sb@gmail.com).
+For inquiries or support, please contact [Yogesh Bhattarai](mailto:yogesh.bhattarai1@howard.edu).
 
 ---
 
